@@ -19,7 +19,6 @@
 """
 Roll my own "template system".
 """
-import cgi
 import cgitb
 cgitb.enable()
 
