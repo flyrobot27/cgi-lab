@@ -2,8 +2,8 @@
 import os
 
 def test_cookies():
-    print("Set-Cookie:UserID = steven;\r\n")
-    print("Set-Cookie:Password = 12345;\r\n")
+    print("Set-Cookie:UserID = steven\r\n")
+    print("Set-Cookie:Password = 12345\r\n")
     print("Set-Cookie:Expires = Tuesday, 31-Dec-2007 23:12:40 GMT;\r\n")
     print("Set-Cookie:Domain = www.tutorialspoint.com;\r\n")
     print("Content-type:text/html\r\n\r\n")
