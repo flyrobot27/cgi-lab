@@ -1,0 +1,8 @@
+Q1: import os; os.enviorn
+Q2: QUERY_STRING
+Q3: HTTP_USER_AGENT
+Q4: It is passed via standard in
+Q5: Set-Cookie: <cookie-name>=<cookie-value>
+Q6: Cookie: <cookie-name>=<cookie-value>
+Q7: Cookies are for client side, somewhat persistent storage as long as the client doesn't clear the cookie
+Q8: https://github.com/flyrobot27/cgi-lab.git
